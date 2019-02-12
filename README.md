@@ -1,6 +1,6 @@
 # startup_namer
 
-A little instagram
+A little starup namer in a ListView
 
 ## Getting Started
 
